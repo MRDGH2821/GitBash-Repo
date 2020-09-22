@@ -6,7 +6,7 @@ Even this README.md file was pushed from Git Bash on 22-09-2020.
 
 Here below are the steps used for pushing this README.md file into the repo.
 
-##### Creating README.md file
+#### Creating README.md file
 
 1.  Create a new text file.
 
@@ -23,7 +23,7 @@ Here below are the steps used for pushing this README.md file into the repo.
    [Markdown Guide]: https://www.markdownguide.org/	"Markdown Guide by  Matt Cone"
 
 
-##### Pushing README.md file to GitBash repo
+#### Pushing README.md file to GitBash repo
 
 1. Track your README.md file 
 
