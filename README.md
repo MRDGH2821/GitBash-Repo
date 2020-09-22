@@ -16,7 +16,7 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 2. Rename the file to this -
 
-   ![Creating README.md file](E:\GitHub\GitBash-Repo\Assets\Creating README file.png)
+   ![Creating README.md file](\Assets\Creating README file.png)
 
 3. Follow the following guide to get yourself acquainted to .md files. And put some content in this file.  You can use your regular Notepad editor also to edit these markdown (.md) files.
 
@@ -29,7 +29,7 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 1. Track your README.md file 
 
-   ![Tracking README.md file](E:\GitHub\GitBash-Repo\Assets\Tracking README.md.png)
+   ![Tracking README.md file](\Assets\Tracking README.md.png)
 
    Use the following commands -
 
