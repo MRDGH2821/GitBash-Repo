@@ -27,3 +27,39 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 ##### Pushing README.md file to GitBash repo
 
+1. Track your README.md file 
+
+   ![Tracking README.md file](E:\GitHub\GitBash-Repo\Assets\Tracking README.md.png)
+
+   Use the following commands -
+
+   ```bash
+   git status
+   git add README.md
+   ```
+
+2. Commit the changes 
+
+   ```bash
+   git commit README.md -m "Added README.md file"
+   ```
+
+3. Push your changes !
+
+   ```bash
+   git push
+   ```
+
+   Make sure you have set remote repository before pushing. Use help command if you get lost
+
+   ```bash
+   git help
+   ```
+
+   Or
+
+   ```bash
+   git help <command>
+   ```
+
+   
