@@ -10,13 +10,13 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 1.  Create a new text file.
 
-   <img src="\Assets\Right click menu.png" alt="Right Click Menu" style="zoom:60%;" />
+   <img src="../Assets/Right%20click%20menu.png" alt="Right Click Menu" style="zoom:60%;" />
 
-   <img src="\Assets\RIght click-New file.png" alt="New File" style="zoom:60%;" />
+   <img src="../Assets/RIght%20click-New%20file.png" alt="New File" style="zoom:60%;" />
 
 2. Rename the file to this -
 
-   ![Creating README.md file](\Assets\Creating README file.png)
+   ![Creating README.md file](../Assets/Creating%20README%20file.png)
 
 3. Follow the following guide to get yourself acquainted to .md files. And put some content in this file.  You can use your regular Notepad editor also to edit these markdown (.md) files.
 
@@ -29,7 +29,7 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 1. Track your README.md file 
 
-   ![Tracking README.md file](\Assets\Tracking README.md.png)
+   ![Tracking README.md file](../Assets/Tracking%20README.md.png)
 
    Use the following commands -
 
