@@ -10,26 +10,24 @@ Here below are the steps used for pushing this README.md file into the repo.
 
 1.  Create a new text file.
 
-   <img src="../Assets/Right%20click%20menu.png" alt="Right Click Menu" style="zoom:60%;" />
+   ![Right Click Menu](Assets/Right%20click%20menu.png)
 
-   <img src="../Assets/RIght%20click-New%20file.png" alt="New File" style="zoom:60%;" />
+   ![Creating New text file](Assets/RIght%20click-New%20file.png)
 
 2. Rename the file to this -
 
-   ![Creating README.md file](../Assets/Creating%20README%20file.png)
+   ![Creating README.md](Assets/Creating%20README%20file.png)
 
 3. Follow the following guide to get yourself acquainted to .md files. And put some content in this file.  You can use your regular Notepad editor also to edit these markdown (.md) files.
 
    [Markdown Guide]: https://www.markdownguide.org/	"Markdown Guide by  Matt Cone"
 
 
-
-
 ##### Pushing README.md file to GitBash repo
 
 1. Track your README.md file 
 
-   ![Tracking README.md file](../Assets/Tracking%20README.md.png)
+   ![Tracking README.md file](Assets/Tracking%20README.md.png)
 
    Use the following commands -
 
